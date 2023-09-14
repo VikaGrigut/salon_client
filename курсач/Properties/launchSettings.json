@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "курсач": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
